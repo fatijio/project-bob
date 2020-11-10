@@ -1,2 +1,6 @@
 Hello world
 My name is Bob
+
+function sendHi(){
+	send_email($email, $id);
+}
